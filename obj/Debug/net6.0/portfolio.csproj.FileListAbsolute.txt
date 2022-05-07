@@ -1,0 +1,15 @@
+D:\Desktop\portfolio\bin\Debug\net6.0\portfolio.exe
+D:\Desktop\portfolio\bin\Debug\net6.0\portfolio.deps.json
+D:\Desktop\portfolio\bin\Debug\net6.0\portfolio.runtimeconfig.json
+D:\Desktop\portfolio\bin\Debug\net6.0\portfolio.dll
+D:\Desktop\portfolio\bin\Debug\net6.0\portfolio.pdb
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.csproj.AssemblyReference.cache
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.AssemblyInfoInputs.cache
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.AssemblyInfo.cs
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.csproj.CoreCompileInputs.cache
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.dll
+D:\Desktop\portfolio\obj\Debug\net6.0\refint\portfolio.dll
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.pdb
+D:\Desktop\portfolio\obj\Debug\net6.0\portfolio.genruntimeconfig.cache
+D:\Desktop\portfolio\obj\Debug\net6.0\ref\portfolio.dll
